@@ -46,3 +46,7 @@ Pull requests are welcome. For major changes, please open an issue first.
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+## Project links
+
+[Source](https://github.com/qentrah/Custom-clerk-auth-system) · [Issues](https://github.com/qentrah/Custom-clerk-auth-system/issues) · [Public project directory](https://github.com/qentrah/.github/blob/main/profile/PROJECTS.md)
